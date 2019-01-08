@@ -12,7 +12,6 @@ class RootIndex extends React.Component {
 
     return (
       <div style={{ background: '#fff' }}>
-        FOOO IS AT A BAR GETTING FOOOED UP
         <Helmet title={siteTitle} />
         <Hero data={author.node} />
         <div className="wrapper">
