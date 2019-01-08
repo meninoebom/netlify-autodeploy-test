@@ -12,7 +12,7 @@ class RootIndex extends React.Component {
 
     return (
       <div style={{ background: '#fff' }}>
-        This is the Foo Bar Branch
+        FOOO IS AT A BAR GETTING FOOOED UP
         <Helmet title={siteTitle} />
         <Hero data={author.node} />
         <div className="wrapper">
